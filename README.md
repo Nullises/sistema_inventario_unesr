@@ -1,7 +1,7 @@
 # sistema_inventario_unesr
 
 ##Montar DB
-- Crear DB vacía (PHPMyAdmin o cualquier otro Manejador MYSQL).
+- Crear DB vacía llamada "registro" (PHPMyAdmin o cualquier otro Manejador MYSQL).
 
 - Importar registro.sql
 
